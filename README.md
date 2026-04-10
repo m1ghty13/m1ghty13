@@ -14,8 +14,9 @@
 ---
 
 ## 👤 Кто я
-Мне 17. В разработке уже 2 года.
-Делаю в основном то, что реально нужно людям: боты, API, автоматизация.
+17 лет. 2 года в продакшене.
+Пишу быстро — деплою быстрее.
+Telegram-боты, backend, автоматизации — под ключ.
 
 ## ⚙️ Что делаю
 - 🤖 Telegram-боты на aiogram
@@ -35,11 +36,13 @@
   <img src="https://img.shields.io/badge/pandas-111111?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
-## 📌 Проекты
-- 🔹 Боты для заявок, уведомлений и мини-автоматизации процессов
-- 🔹 API-сервисы для интеграций и внутренних инструментов
-- 🔹 Парсеры и скрипты для рутинных задач
-- 🔹 Небольшие закрытые проекты для клиентов с Kwork и Lolz
+## 🚀 Проекты
+
+| Проект | Описание | Стек |
+|--------|----------|------|
+| [excel-1c-report-bot](#) | Авто-отчёты из 1С/Excel в Telegram | aiogram · pandas · APScheduler |
+| [wb-price-tracker](#) | Мониторинг цен WB с уведомлениями | aiogram · aiosqlite · httpx |
+| [gpt-business-bot](#) | GPT-бот для бизнеса + веб-админка | aiogram · FastAPI · PostgreSQL |
 
 ## 📈 GitHub Stats
 <div align="center">
