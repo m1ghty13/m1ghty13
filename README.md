@@ -40,9 +40,9 @@ Telegram-боты, backend, автоматизации — под ключ.
 
 | Проект | Описание | Стек |
 |--------|----------|------|
-| [excel-1c-report-bot](#) | Авто-отчёты из 1С/Excel в Telegram | aiogram · pandas · APScheduler |
-| [wb-price-tracker](#) | Мониторинг цен WB с уведомлениями | aiogram · aiosqlite · httpx |
-| [gpt-business-bot](#) | GPT-бот для бизнеса + веб-админка | aiogram · FastAPI · PostgreSQL |
+| excel-1c-report-bot | Авто-отчёты из 1С/Excel в Telegram | aiogram · pandas · APScheduler |
+| wb-price-tracker | Мониторинг цен WB с уведомлениями | aiogram · aiosqlite · httpx |
+| gpt-business-bot | GPT-бот для бизнеса + веб-админка | aiogram · FastAPI · PostgreSQL |
 
 ## 📈 GitHub Stats
 <div align="center">
