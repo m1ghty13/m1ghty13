@@ -1,17 +1,18 @@
 # Egor // Xivora
 
-Hi! I'm a backend developer focused on Telegram bots, APIs and process automation — from architecture and database design to a deployed, working product.
+Hi! I'm a Web3 backend developer. I write smart contracts in Solidity and build APIs and Telegram bots that connect apps to on-chain data.
 
-Besides bots, I build parsers and scrapers, backend services with FastAPI, and various automation scripts for business tasks.
+I work with Go, Rust, and Python. I can design the database, build the backend, write scripts to automate on-chain tasks, and deploy the project.
+
+I'm open to contract work with Web3 teams and agencies.
 
 ## My stack
 
-![Python](https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker)
+![Solidity, Go, Rust, Python](https://skillicons.dev/icons?i=solidity,go,rust,python)
 
-![Tools](https://skillicons.dev/icons?i=ts,react,nextjs,linux,git)
+![FastAPI, PostgreSQL, Redis, Docker, Git](https://skillicons.dev/icons?i=fastapi,postgres,redis,docker,git)
 
 ## Contacts
 
-- Telegram: [@Xivora](https://t.me/Xivora)
-- Website: [xivora.one](https://xivora.one)
-- Lolz: [https://lolz.live/members/9765279/](https://lolz.live)
+- [Telegram @Xivora](https://t.me/Xivora)
+- [LinkedIn](https://www.linkedin.com/in/xivora)
