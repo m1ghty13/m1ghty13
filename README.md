@@ -16,3 +16,4 @@ I'm open to contract work with Web3 teams and agencies.
 
 - [Telegram @Xivora](https://t.me/Xivora)
 - [LinkedIn](https://www.linkedin.com/in/xivora)
+- [X/Twitter](https://x.com/xivoraservice)
